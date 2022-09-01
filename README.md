@@ -1,6 +1,6 @@
 # Git commands training
 
-![Alt text] (https://stock.adobe.com/search?k=profile)
+![My Remote Image](https://stock.adobe.com/search?k=profile)
 ### this is a demo repository for training purpose
 
 here is an example repository
