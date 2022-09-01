@@ -7,6 +7,6 @@ here is an example repository
 #include<stdio.h>
 main()
 {
-printf("Hello");
+printf("Hello Adarsh");
 }
 ```
